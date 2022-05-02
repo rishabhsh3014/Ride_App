@@ -1,0 +1,787 @@
+{
+  "user": {
+    "station_code": 85,
+    "name": "Dhruv Singh",
+    "url": "https://picsum.photos/200"
+  },
+  "ride": [
+    {
+      "id": 528,
+      "origin_station_code": 11,
+      "station_path": [
+        43,
+        58,
+        60,
+        79,
+        83
+      ],
+      "destination_station_code": 91,
+      "date": "04/04/2022 03:53 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Lunglei"
+    },
+    {
+      "id": 958,
+      "origin_station_code": 7,
+      "station_path": [
+        46,
+        59,
+        67,
+        75,
+        84
+      ],
+      "destination_station_code": 95,
+      "date": "02/21/2022 03:31 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Rajasthan",
+      "city": "Malpura"
+    },
+    {
+      "id": 475,
+      "origin_station_code": 13,
+      "station_path": [
+        54,
+        63,
+        79,
+        80
+      ],
+      "destination_station_code": 98,
+      "date": "03/23/2022 08:23 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Telangana",
+      "city": "Kamareddy"
+    },
+    {
+      "id": 336,
+      "origin_station_code": 8,
+      "station_path": [
+        61,
+        76,
+        88
+      ],
+      "destination_station_code": 93,
+      "date": "03/28/2022 11:45 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Assam",
+      "city": "Nalbari"
+    },
+    {
+      "id": 880,
+      "origin_station_code": 17,
+      "station_path": [
+        62,
+        74,
+        83
+      ],
+      "destination_station_code": 97,
+      "date": "02/22/2022 08:57 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "id": 654,
+      "origin_station_code": 16,
+      "station_path": [
+        37,
+        49,
+        55,
+        60,
+        79,
+        88
+      ],
+      "destination_station_code": 96,
+      "date": "03/26/2022 09:54 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Arunachal Pradesh",
+      "city": "Pasighat"
+    },
+    {
+      "id": 290,
+      "origin_station_code": 6,
+      "station_path": [
+        22,
+        38,
+        41,
+        54,
+        64,
+        74,
+        85
+      ],
+      "destination_station_code": 96,
+      "date": "02/23/2022 09:50 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Saiha"
+    },
+    {
+      "id": 519,
+      "origin_station_code": 19,
+      "station_path": [
+        37,
+        44,
+        55,
+        68,
+        70,
+        87
+      ],
+      "destination_station_code": 99,
+      "date": "02/23/2022 06:23 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Chandigarh",
+      "city": "Chandigarh"
+    },
+    {
+      "id": 127,
+      "origin_station_code": 17,
+      "station_path": [
+        69,
+        74,
+        89
+      ],
+      "destination_station_code": 96,
+      "date": "02/28/2022 06:34 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Andhra Pradesh",
+      "city": "Narasapuram"
+    },
+    {
+      "id": 926,
+      "origin_station_code": 1,
+      "station_path": [
+        40,
+        55,
+        66,
+        71,
+        85
+      ],
+      "destination_station_code": 93,
+      "date": "02/26/2022 04:18 PM", 
+      "map_url": "https://picsum.photos/200",
+      "state": "Madhya Pradesh",
+      "city": "Mauganj"
+    },
+    {
+      "id": 533,
+      "origin_station_code": 17,
+      "station_path": [
+        62,
+        70,
+        89
+      ],
+      "destination_station_code": 92,
+      "date": "02/13/2022 06:55 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Chandigarh",
+      "city": "Chandigarh"
+    },
+    {
+      "id": 878,
+      "origin_station_code": 14,
+      "station_path": [
+        62,
+        72,
+        85
+      ],
+      "destination_station_code": 99,
+      "date": "02/24/2022 02:52 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Arunachal Pradesh",
+      "city": "Pasighat"
+    },
+    {
+      "id": 663,
+      "origin_station_code": 11,
+      "station_path": [
+        23,
+        38,
+        40,
+        58,
+        69,
+        71,
+        87
+      ],
+      "destination_station_code": 99,
+      "date": "03/30/2022 05:52 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Goa",
+      "city": "Panaji"
+    },
+    {
+      "id": 826,
+      "origin_station_code": 3,
+      "station_path": [
+        51,
+        64,
+        75,
+        84
+      ],
+      "destination_station_code": 98,
+      "date": "03/03/2022 09:46 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Nagaland",
+      "city": "Mokokchung"
+    },
+    {
+      "id": 354,
+      "origin_station_code": 4,
+      "station_path": [
+        56,
+        65,
+        70,
+        86
+      ],
+      "destination_station_code": 94,
+      "date": "03/06/2022 07:01 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Andhra Pradesh",
+      "city": "Narasaraopet"
+    },
+    {
+      "id": 550,
+      "origin_station_code": 15,
+      "station_path": [
+        66,
+        74,
+        83
+      ],
+      "destination_station_code": 92,
+      "date": "03/21/2022 08:55 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Chhattisgarh",
+      "city": "Mungeli"
+    },
+    {
+      "id": 316,
+      "origin_station_code": 10,
+      "station_path": [
+        43,
+        59,
+        64,
+        79,
+        81
+      ],
+      "destination_station_code": 98,
+      "date": "02/11/2022 04:44 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Andhra Pradesh",
+      "city": "Srikalahasti"
+    },
+    {
+      "id": 968,
+      "origin_station_code": 17,
+      "station_path": [
+        22,
+        39,
+        42,
+        53,
+        68,
+        70,
+        88
+      ],
+      "destination_station_code": 97,
+      "date": "02/23/2022 03:39 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "id": 306,
+      "origin_station_code": 1,
+      "station_path": [
+        30,
+        40,
+        56,
+        64,
+        72,
+        88
+      ],
+      "destination_station_code": 95,
+      "date": "03/19/2022 10:17 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Manipur",
+      "city": "Lilong"
+    },
+    {
+      "id": 660,
+      "origin_station_code": 2,
+      "station_path": [
+        67,
+        77,
+        81
+      ],
+      "destination_station_code": 98,
+      "date": "03/26/2022 12:20 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Maharashtra",
+      "city": "Sailu"
+    },
+    {
+      "id": 211,
+      "origin_station_code": 15,
+      "station_path": [
+        52,
+        68,
+        73,
+        88
+      ],
+      "destination_station_code": 93,
+      "date": "03/20/2022 08:32 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Madhya Pradesh",
+      "city": "Pali"
+    },
+    {
+      "id": 309,
+      "origin_station_code": 7,
+      "station_path": [
+        20,
+        35,
+        47,
+        50,
+        63,
+        77,
+        88
+      ],
+      "destination_station_code": 94,
+      "date": "03/02/2022 02:18 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Lunglei"
+    },
+    {
+      "id": 633,
+      "origin_station_code": 15,
+      "station_path": [
+        27,
+        31,
+        41,
+        59,
+        67,
+        73,
+        80
+      ],
+      "destination_station_code": 93,
+      "date": "03/31/2022 12:06 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "id": 933,
+      "origin_station_code": 10,
+      "station_path": [
+        55,
+        65,
+        72,
+        80
+      ],
+      "destination_station_code": 93,
+      "date": "03/12/2022 06:47 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Arunachal Pradesh",
+      "city": "Naharlagun"
+    },
+    {
+      "id": 865,
+      "origin_station_code": 8,
+      "station_path": [
+        47,
+        53,
+        61,
+        77,
+        82
+      ],
+      "destination_station_code": 92,
+      "date": "03/02/2022 02:27 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Karnataka",
+      "city": "Shahpur"
+    },
+    {
+      "id": 900,
+      "origin_station_code": 4,
+      "station_path": [
+        45,
+        55,
+        63,
+        75,
+        81
+      ],
+      "destination_station_code": 90,
+      "date": "03/28/2022 02:27 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Kerala",
+      "city": "Panniyannur"
+    },
+    {
+      "id": 272,
+      "origin_station_code": 13,
+      "station_path": [
+        54,
+        61,
+        79,
+        87
+      ],
+      "destination_station_code": 94,
+      "date": "03/29/2022 03:00 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Gujarat",
+      "city": "Bharuch"
+    },
+    {
+      "id": 428,
+      "origin_station_code": 16,
+      "station_path": [
+        26,
+        32,
+        49,
+        53,
+        69,
+        78,
+        85
+      ],
+      "destination_station_code": 94,
+      "date": "03/09/2022 04:06 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "id": 225,
+      "origin_station_code": 16,
+      "station_path": [
+        42,
+        55,
+        69,
+        79,
+        85
+      ],
+      "destination_station_code": 97,
+      "date": "03/10/2022 04:18 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Puducherry",
+      "city": "Mahe"
+    },
+    {
+      "id": 469,
+      "origin_station_code": 14,
+      "station_path": [
+        42,
+        54,
+        66,
+        76,
+        81
+      ],
+      "destination_station_code": 95,
+      "date": "02/26/2022 07:01 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Uttarakhand",
+      "city": "Tehri"
+    },
+    {
+      "id": 255,
+      "origin_station_code": 9,
+      "station_path": [
+        48,
+        50,
+        65,
+        78,
+        83
+      ],
+      "destination_station_code": 90,
+      "date": "03/02/2022 09:30 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "id": 711,
+      "origin_station_code": 2,
+      "station_path": [
+        44,
+        52,
+        67,
+        79,
+        87
+      ],
+      "destination_station_code": 94,
+      "date": "03/17/2022 02:45 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Manipur",
+      "city": "Thoubal"
+    },
+    {
+      "id": 493,
+      "origin_station_code": 18,
+      "station_path": [
+        27,
+        31,
+        48,
+        59,
+        65,
+        70,
+        82
+      ],
+      "destination_station_code": 91,
+      "date": "03/21/2022 03:39 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Maharashtra",
+      "city": "Parbhani"
+    },
+    {
+      "id": 672,
+      "origin_station_code": 3,
+      "station_path": [
+        45,
+        57,
+        67,
+        73,
+        82
+      ],
+      "destination_station_code": 92,
+      "date": "02/22/2022 07:56 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Kerala",
+      "city": "Palai"
+    },
+    {
+      "id": 875,
+      "origin_station_code": 12,
+      "station_path": [
+        35,
+        46,
+        54,
+        60,
+        78,
+        88
+      ],
+      "destination_station_code": 93,
+      "date": "03/03/2022 01:12 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Karnataka",
+      "city": "Muddebihal"
+    },
+    {
+      "id": 821,
+      "origin_station_code": 7,
+      "station_path": [
+        59,
+        61,
+        79,
+        80
+      ],
+      "destination_station_code": 90,
+      "date": "03/20/2022 03:13 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Bihar",
+      "city": "Lalganj"
+    },
+    {
+      "id": 111,
+      "origin_station_code": 7,
+      "station_path": [
+        37,
+        43,
+        59,
+        64,
+        72,
+        84
+      ],
+      "destination_station_code": 99,
+      "date": "02/13/2022 02:12 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Karnataka",
+      "city": "Sadalagi"
+    },
+    {
+      "id": 731,
+      "origin_station_code": 16,
+      "station_path": [
+        55,
+        61,
+        76,
+        88
+      ],
+      "destination_station_code": 90,
+      "date": "03/30/2022 04:40 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Andhra Pradesh",
+      "city": "Yerraguntla"
+    },
+    {
+      "id": 758,
+      "origin_station_code": 18,
+      "station_path": [
+        51,
+        67,
+        70,
+        83
+      ],
+      "destination_station_code": 94,
+      "date": "02/18/2022 05:04 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Chhattisgarh",
+      "city": "Tilda Newra"
+    },
+    {
+      "id": 424,
+      "origin_station_code": 19,
+      "station_path": [
+        26,
+        32,
+        49,
+        50,
+        60,
+        75,
+        84
+      ],
+      "destination_station_code": 90,
+      "date": "03/24/2022 08:02 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Maharashtra",
+      "city": "Pachora"
+    },
+    {
+      "id": 642,
+      "origin_station_code": 15,
+      "station_path": [
+        62,
+        71,
+        87
+      ],
+      "destination_station_code": 95,
+      "date": "03/16/2022 01:26 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Manipur",
+      "city": "Mayang Imphal"
+    },
+    {
+      "id": 116,
+      "origin_station_code": 15,
+      "station_path": [
+        35,
+        42,
+        53,
+        64,
+        74,
+        88
+      ],
+      "destination_station_code": 92,
+      "date": "02/23/2022 08:11 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Dadra and Nagar Haveli",
+      "city": "Silvassa"
+    },
+    {
+      "id": 536,
+      "origin_station_code": 7,
+      "station_path": [
+        26,
+        30,
+        43,
+        56,
+        63,
+        73,
+        89
+      ],
+      "destination_station_code": 96,
+      "date": "03/27/2022 11:46 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "id": 541,
+      "origin_station_code": 4,
+      "station_path": [
+        67,
+        71,
+        84
+      ],
+      "destination_station_code": 98,
+      "date": "02/16/2022 10:39 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Andhra Pradesh",
+      "city": "Ramachandrapuram"
+    },
+    {
+      "id": 255,
+      "origin_station_code": 12,
+      "station_path": [
+        36,
+        42,
+        56,
+        61,
+        73,
+        81
+      ],
+      "destination_station_code": 97,
+      "date": "03/10/2022 02:30 PM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Chandigarh",
+      "city": "Chandigarh"
+    },
+    {
+      "id": 321,
+      "origin_station_code": 9,
+      "station_path": [
+        26,
+        33,
+        48,
+        59,
+        63,
+        79,
+        83
+      ],
+      "destination_station_code": 99,
+      "date": "03/13/2022 10:28 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "West Bengal",
+      "city": "Balurghat"
+    },
+    {
+      "id": 605,
+      "origin_station_code": 8,
+      "station_path": [
+        62,
+        73,
+        82
+      ],
+      "destination_station_code": 98,
+      "date": "02/26/2022 03:22 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Haryana",
+      "city": "Yamunanagar"
+    },
+    {
+      "id": 435,
+      "origin_station_code": 13,
+      "station_path": [
+        66,
+        74,
+        81
+      ],
+      "destination_station_code": 97,
+      "date": "02/21/2022 08:46 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Manipur",
+      "city": "Mayang Imphal"
+    },
+    {
+      "id": 277,
+      "origin_station_code": 2,
+      "station_path": [
+        65,
+        79,
+        83
+      ],
+      "destination_station_code": 95,
+      "date": "03/30/2022 07:16 AM",
+      "map_url": "https://picsum.photos/200",
+      "state": "Uttarakhand",
+      "city": "Hardwar"
+    }
+  ]
+}
