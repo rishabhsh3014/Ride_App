@@ -1,8 +1,8 @@
 React App is hosted here:
 https://ride-app.pages.dev/
 
-![image](main.jpg)
+![image](./public/Screen%20Shots/main.jpg)
 
-![image](Past.jpg)
+![image](./public/Screen%20Shots/Past.jpg)
 
-![image](Upcoming.jpg)
+![image](./public/Screen%20Shots/Upcoming.jpg)
